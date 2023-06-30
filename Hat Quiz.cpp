@@ -34,7 +34,7 @@
 
   cin >> answer1;
 
-
+//an dieser stelle wird geprüft was die eingabe war, jenach dem was die eingabe war kriegt die variable +1 welche in ie antwort eingebunden wurde.
   if(answer1 == 1){
     hufflepuff++;
   }
